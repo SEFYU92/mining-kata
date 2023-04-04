@@ -1,0 +1,15 @@
+# Project exclude paths
+/target/
+/mining-kata.iml
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/.idea/.gitignore
+/compiler.xml
+/encodings.xml
+/jarRepositories.xml
+/misc.xml
+/workspace.xml
